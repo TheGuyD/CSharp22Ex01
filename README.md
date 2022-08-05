@@ -31,8 +31,8 @@
       4.1 is the string is palindrome?
       4.2 if it's a number - is it devided by 3?
       4.3 if it's an eanglish letter only string , how many of them are small letters?
-      4.4 pay attention to user input , it shoul contain only eanglish letters *or* only numbers.
-          so make validation on user input.
+      4.4 pay attention to user input , it shoul contain only eanglish letters *or* only numbers -> input validation.
+          
      
 	
 	
