@@ -23,7 +23,7 @@
              '''
              
              
-3. write a program that print the Diamond from question 2 but in every height the user ask (include validation on the input) 
+3. write a program that print the Diamond from question 2 but in every height the user ask (include input validation) 
 		    try use the assembly from question 2. <br/> 
 		
 4.write a program that the input a 9 char string and give the following feedback:
