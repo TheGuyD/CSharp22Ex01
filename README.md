@@ -2,7 +2,7 @@
 
 
 
- 1. write a program that read 3, 7-bit numbers (include validation on the input),
+ 1. write a program that read 3, 7-bit numbers (include input validation),
 	        parsing the input to decimal numbers (not using the c# built-in function),
 	        print them in increased order , how many palindrome? , how many devided by 3?, 
           how many ones/zeros?, what is the total 3 avarage of decimal digits?. 
